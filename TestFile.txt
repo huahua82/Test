@@ -1,2 +1,3 @@
-0) Editing something in this file
-1) adding stuff locally
+1) Editing something in this file
+2) adding stuff locally
+3) Changing back to 1, 2, 3
